@@ -1,4 +1,4 @@
-# Real Time DevOps Project | Deploy to Kubernetes Using Jenkins | End to End DevOps Project | CI/CD
+# Deploy an application to Kubernetes Using Jenkins | End to End DevOps Project | CI/CD
 
 ## **Project Overview -**
 
